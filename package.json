@@ -44,7 +44,7 @@
 		"@typescript-eslint/eslint-plugin": "^5.50.0",
 		"eslint-config-prettier": "^8.6.0",
 		"@types/better-sqlite3": "^7.6.3",
-		"postcss": "^8.4.21",
+		"postcss": "^8.4.31",
 		"vite": "^4.0.4"
 	}
 }
